@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **lyc686/lyc686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 CSDN主页：https://blog.csdn.net/weixin_52836217?spm=1000.2115.3001.5343
 - 😄 b站主页：https://space.bilibili.com/34093292/
 - 🔭 感兴趣领域：图机器学习/计算机视觉/图像分类/可解释性学习...
--->
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lyc686&show_icons=true&theme=merko)
 
 
