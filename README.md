@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/lyc686/OpenMMlab_AI_2023.2">
   <img alt="OpenMMlab实战" src="https://img.shields.io/badge/OpenMMlab-%E5%AE%9E%E6%88%98-lightgrey" />
 </a>
-<a href="https://github.com/lyc686/CS224W_notes">
+<a href="https://github.com/lyc686/Explainable_learning">
   <img alt="可解释性机器学习" src="https://img.shields.io/badge/%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7-Explaination-yellow" />
 </a>
 <a href="https://github.com/lyc686/CS224W_notes">
