@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/lyc686/blog">
   <img alt="日常blog" src="https://img.shields.io/badge/%E6%97%A5%E5%B8%B8%E5%8D%9A%E5%AE%A2-Blog-brightgreen" />
 </a>
-<a href="https://github.com/lyc686/CS224W_notes">
+<a href="https://github.com/lyc686/LiHongyi-2021-ML">
   <img alt="李宏毅机器学习" src="https://img.shields.io/badge/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E7%AC%94%E8%AE%B0-purple" />
 </a>
 <a href="https://github.com/lyc686/OpenCv_study">
