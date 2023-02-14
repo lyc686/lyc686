@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lyc686&show_icons=true&theme=tokyonight)
 
-
+目前已有的笔记包括：[日常博客](https://github.com/lyc686/blog)、[Opencv实战代码](https://github.com/lyc686/OpenCv_study)、[基于pytorch完成图像分类](https://github.com/lyc686/datawhale_study)、[OpenMMlab图像分类、检测、分割实战](https://github.com/lyc686/OpenMMlab_AI_2023.2)、[斯坦福大学CS224W系列...更新中](https://github.com/lyc686/CS224W_notes)
