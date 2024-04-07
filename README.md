@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 💬 感兴趣领域：机器学习/深度学习，欢迎大家和我一起讨论学习
 - 🌱 CSDN主页：https://blog.csdn.net/weixin_52836217?spm=1000.2115.3001.5343
-- 😄 b站主页：https://space.bilibili.com/34093292/ 喜欢玩全民枪战手游的可以来主页逛一逛
+- 😄 b站主页：https://space.bilibili.com/34093292/
 - 🔭 感兴趣领域：图机器学习/计算机视觉/图像分类/可解释性学习...
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lyc686&show_icons=true&theme=tokyonight)
