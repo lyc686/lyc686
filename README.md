@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   <img alt="斯坦福大学CS224W" src="https://img.shields.io/badge/%E6%96%AF%E5%9D%A6%E7%A6%8F-CS224W-orange" />
 </a>
 <a href="https://github.com/lyc686/Datawhale_LLM">
-  <img alt="LLM大语言模型应用" src=" https://img.shields.io/badge/Large Language Model-Datawhale_LLM-purple" />
+  <img alt="LLM大语言模型应用" src="https://img.shields.io/badge/Large_Language_Model-Datawhale_LLM-red" />
 </a>
