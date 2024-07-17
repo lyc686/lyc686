@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/lyc686/CS224W_notes">
   <img alt="斯坦福大学CS224W" src="https://img.shields.io/badge/%E6%96%AF%E5%9D%A6%E7%A6%8F-CS224W-orange" />
 </a>
+<a href="https://github.com/lyc686/Datawhale_LLM">
+  <img alt="LLM大语言模型应用" src="https://img.shields.io/badge/%E6%9D%8E%E5%AE%8F%E6%AF%85%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-Datawhale_LLM-purple" />
+</a>
